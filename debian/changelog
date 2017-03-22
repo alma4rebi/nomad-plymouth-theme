@@ -1,3 +1,10 @@
+plymouth-theme-nomad (1.2-1) nxos; urgency=medium
+
+  [ UriHerrera ]
+  * added nitrux logo
+
+ -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Wed, 22 Mar 2017 04:37:16 +0000
+
 plymouth-theme-nomad (1.0-1) nxos; urgency=medium
 
   * Initial release 
