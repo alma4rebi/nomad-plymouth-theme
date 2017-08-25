@@ -1,3 +1,8 @@
+plymouth-theme-nomad (1.3-2) nxos; urgency=medium
+  * Fix installation paths
+
+ -- Alexis López Zubieta <azubieta90@gmail.com>  Thu, 24 Aug 2017 19:44:33 -0500
+
 plymouth-theme-nomad (1.3-1) nxos; urgency=medium
 
   * Adding post install scripts to update debial alternatives
